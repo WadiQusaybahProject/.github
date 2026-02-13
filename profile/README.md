@@ -6,7 +6,7 @@ This organization serves as the public data archive for Wadi Qusaybah research o
 
 ---
 
-## Repository
+## Data Repositories
 
 ### wadi_qusaybah_data
 
