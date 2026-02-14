@@ -2,7 +2,7 @@
 
 The **Wadi Qusaybah Project** is an archaeological research initiative focused on survey, excavation, and computational modelling of Early Holocene landscapes in Jordan.
 
-This organization serves as the public data archive for Wadi Qusaybah research outputs.
+This GitHub organization is the public hub for Wadi Quṣaybah research data and resources. Its role is deliberately narrow: to provide stable, citable access to the datasets used in project publications, while keeping analytical tooling in a separate, general-purpose methods organization.
 
 ---
 
@@ -22,18 +22,6 @@ Analytical frameworks used in project publications are maintained separately wit
 - **sweep_width** – Sweep width calibration module  
 
 These tools are generalizable and are not limited to Wadi Qusaybah applications.
-
----
-
-## Publications
-
-This project supports peer-reviewed research, including:
-
-XXX
-
-XXX
-
-XXX
 
 ---
 
